@@ -1,0 +1,11 @@
+/* styles.css */
+
+/* 将头像变成圆形 */
+.hero-avatar {
+    border-radius: 50%;
+}
+
+/* 添加蓝紫色的渐变光效果 */
+.hero-avatar {
+    box-shadow: 0 0 20px 10px rgba(90, 0, 255, 0.5); /* 蓝紫色渐变光效果 */
+}
